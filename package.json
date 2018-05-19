@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --devtool eval-source-map --history-api-fallback --open",
     "build": "webpack -p",
-    "cm-items": "start-storybook -p 6006",
+    "cm-items": "start-storybook -p 6007",
     "build-storybook": "build-storybook"
   },
   "author": "oneybee, ruucm",
