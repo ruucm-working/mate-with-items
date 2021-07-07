@@ -17,6 +17,10 @@ class Data02Component extends Component {
       <div className="data-02">
         <InfoBanner>
           <InfoBanner.Title />
+            <div className="row grid-default-style">
+              <div className="col-6">column 01</div>
+              <div className="col-6"><InfoBanner.CardRight /></div>
+            </div>
         </InfoBanner>
         <h1>Data 02</h1>
       </div>
